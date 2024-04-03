@@ -1,3 +1,4 @@
+output.pdf为提目要求生成的目标PDF
 #### libharu库配置
 
 用xrepo search 命令查询libharu 库是否在xrepo中
