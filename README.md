@@ -1,14 +1,13 @@
 #### libharu库配置
 
 用xrepo search 命令查询libharu 库是否在xrepo中
-
-![image-20240403191147810](E:\md笔记\image\image-20240403191147810.png)
-
+![image-20240403191147810-1712144587093-1](https://github.com/cuberxh/vscodecpp-/assets/114867144/3403e1da-5d1a-4bce-9c39-8448722e1a83)
 xrepo中存在libharu 库
 
 编写xmake.lua加入libharu库
 
-![image-20240403191441251](E:\md笔记\image\image-20240403191441251.png)
+![image](https://github.com/cuberxh/vscodecpp-/assets/114867144/a969cb88-b5df-43fa-887e-691998035ee5)
+
 
 写入测试代码
 
@@ -82,12 +81,10 @@ int main()
 ```
 
 xmake命令编译成功
-
-![image-20240403192947429](E:\md笔记\image\image-20240403192947429.png)
+![image](https://github.com/cuberxh/vscodecpp-/assets/114867144/818d4f32-ebf9-4f0c-9191-1d404ccdc3d2)
 
 运行后生成对应PDF
-
-![image-20240403193103788](E:\md笔记\image\image-20240403193103788.png)
+![image](https://github.com/cuberxh/vscodecpp-/assets/114867144/8b3540a2-573f-475c-9d0e-0fbe1bf6a2e4)
 
 libharu配置成功
 
@@ -178,6 +175,10 @@ int main()
 }
 ```
 
-生成对应output.pdf
+生成对应output.pdf（题目的要求生成的pdf）
+![image](https://github.com/cuberxh/vscodecpp-/assets/114867144/cd4a7a0a-8e1b-46c4-b650-9c5953420a3c)
 
-![image-20240403193550975](E:\md笔记\image\image-20240403193550975.png)
+
+
+
+
