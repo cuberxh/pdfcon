@@ -1,6 +1,8 @@
 ## 4.10 9：00 学习demo/character_map.c中
 不知道为啥这个demo编译都没过排查中
 
+## 4.10 9：10  先看下demo/chfont_demo.c
+
 
 
 
